@@ -1,0 +1,18 @@
+{"places" : [
+    {
+        "id" : 1,
+        "url": "excurso/client/public/images/bianca-willshire-DhglXCVqkXY-unsplash.jpg",
+        "name": "boudhanath stupa"
+    },
+    {
+        "id" : 2,
+        "url": "excurso/client/public/images/bianca-willshire-DhglXCVqkXY-unsplash.jpg",
+        "name": "boudhanath stupa"
+    },
+    {
+        "id" : 3,
+        "url": "excurso/client/public/images/bianca-willshire-DhglXCVqkXY-unsplash.jpg",
+        "name": "boudhanath stupa"
+    }
+]
+}

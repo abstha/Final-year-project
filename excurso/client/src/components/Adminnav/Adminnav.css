@@ -1,0 +1,17 @@
+.admin-navbar{
+    width: 100%;
+    background-color: black;
+    color: wheat;
+    padding: 40px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.admin-navbar > h2{
+    margin-left: 50px;
+}
+
+.menu :hover{
+    cursor: pointer;
+}

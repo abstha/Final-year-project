@@ -1,0 +1,54 @@
+.user-requests{
+    display: flex;
+}
+
+.user-books {
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease-out;
+    margin-top: 50px;
+}
+
+.user-books:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+}
+
+.user-books h1 {
+    font-size: 24px;
+    margin-top: 0;
+  }
+  
+  .user-books h3 {
+    font-size: 18px;
+    margin-bottom: 0;
+  }
+
+.status-accepted {
+    color: rgb(64, 237, 64);
+}
+
+.status-rejected {
+    color: red;
+}
+
+.status-requested {
+    color: blue;
+} 
+
+.Clear :hover{
+  cursor: grab;
+
+}
+
+.nothing{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

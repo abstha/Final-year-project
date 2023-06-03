@@ -1,0 +1,100 @@
+/* 
+.hero_image{
+    background-image: url("../../assets/azin-javadzadeh-WMpyRPaS7DQ-unsplash.jpg");
+    background-size: cover;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    left: 0px;
+    top: 0px;
+
+    /* filter: blur(5px); 
+}
+
+.hero_text{
+    position: absolute;
+    width: 834px;
+    height: 398px;
+    left: 303px;
+    top: 150px;
+
+    font-family: 'Poppins', sans-serif;
+    font-weight:100;
+    font-size: 20px;
+    line-height: 60px;
+ border: 10px;
+    border-color: greenyellow;
+    border-style: dotted;  
+}
+
+.Title1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 105px;
+    text-align: center;
+
+     background: -webkit-linear-gradient(#83138d, #d371ee);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.hero_sub1{
+    position: absolute;
+    width: 834px;
+    height: 49px;
+    left: 0px;
+    top: 129px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 45px;
+    color: white;
+    
+}
+
+.hero_sub2{
+    position: absolute;
+    width: 505px;
+    height: 54px;
+    left: 164.5px;
+    top: 178px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 45px;
+
+    color: rgb(5, 5, 80);
+}
+
+p{
+    background: -webkit-linear-gradient(#f2709c, #ff9472);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.main2{
+    font-family: 'Poppins';
+}
+.LoginBtn{
+    left: 200px;
+    top: 50px;
+    width: 190px;
+    height: 50px;
+
+    border-radius: 50px;
+}
+
+.SignupBtn{
+    top: 50px;
+    left: 311px;
+    width: 190px;
+    height: 50px;
+
+    border-radius: 50px;
+} */

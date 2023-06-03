@@ -1,0 +1,22 @@
+/* div{
+    margin: 0;
+} */
+
+
+
+.MapMain{
+    height: 100%;
+
+}
+.Map{
+    height: 600px;
+    width: 700px;
+    padding-top: 20px;
+}
+
+.Search{
+    padding-top: 20px;
+    margin-left: 50px;
+    width: 100%;
+}
+

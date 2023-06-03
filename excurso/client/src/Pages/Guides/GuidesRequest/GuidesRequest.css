@@ -1,0 +1,67 @@
+
+.guide-request {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .request {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .request-Card {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 50%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .guidedetail {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .booking-confirm {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+  
+  
+  @media only screen and (max-width: 768px) {
+    .request-Card {
+      flex-direction: column;
+    }
+  
+    .guidedetail {
+      margin-bottom: 10px;
+    }
+  
+    .booking-confirm {
+      justify-content: space-between;
+      margin-top: 10px;
+    }
+  }
+  .booking-status {
+    font-weight: bold;
+  }
+  
+  .booking-accepted {
+    color: rgb(67, 222, 67);
+  }
+  
+  .booking-rejected {
+    color: red;
+  }
+  
+  .booking-requested {
+    color: blue;
+  }

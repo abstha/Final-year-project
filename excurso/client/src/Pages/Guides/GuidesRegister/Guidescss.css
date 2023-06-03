@@ -1,0 +1,14 @@
+.Reg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.guides-register{
+    background-color: antiquewhite;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px ;
+    width: 500px;
+}

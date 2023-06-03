@@ -1,0 +1,44 @@
+.guidesLeft > img{
+    width: 100%;
+    height: 100%;
+}
+
+.guidesLeft{
+    width: 50%;
+    height: 100vh;
+}
+
+.register-guide{
+    display: flex;
+}
+
+.guides-right{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.RegCard {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    width: 80%;
+    margin: 20px;
+    height: 70%;
+  }
+  
+.RegCard h1 {
+    margin-bottom: 20px;
+}
+  
+.RegCard form {
+    display: flex;
+    flex-direction: column;
+}
+  
+.RegCard form span {
+    margin-top: 20px;
+}
+

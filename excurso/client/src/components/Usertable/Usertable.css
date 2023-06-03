@@ -1,0 +1,12 @@
+.userdash{
+    display: flex;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 250px; /* adjust as needed */
+    height: 100%;
+    overflow: auto;
+}

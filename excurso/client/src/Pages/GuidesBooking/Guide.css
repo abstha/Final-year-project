@@ -1,0 +1,44 @@
+.GuideCard{
+    width: 100%;
+    background: rgb(242, 235, 221);
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); 
+}
+
+.GuideCard:hover {
+    transform: scale(1.05); 
+    transition: all 0.2s ease-in-out;
+}
+
+.guidedetail > h2{
+    font-size: x-large;
+}
+
+.right{
+   margin-right: 100px;
+}
+
+.GuideCard > img{
+    width:200px;
+    height: 200px;
+    background-size: cover;
+}
+
+.input-container{
+    margin-top: 40px;
+    height: 70px;
+}
+
+.input-text{
+    height: 30px;
+}
+
+.guidedetail{
+    display: flex;
+    justify-content: center;
+}

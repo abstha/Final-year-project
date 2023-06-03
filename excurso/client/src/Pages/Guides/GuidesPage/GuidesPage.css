@@ -1,0 +1,45 @@
+
+.hero-image{
+    background: url('../../../assets/Guideshero.jpg');
+    background-size: contain;
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.guides-display{
+    padding: 50px;
+    font-size: xx-large;
+}
+
+.h1-color{
+    color: rgb(53, 141, 81);
+}
+
+
+.guides-request{
+    display: flex;
+}
+
+.left-request{
+    width: 500px;
+    padding: 40px;
+    background: #f2eadd;
+}
+
+.right-request{
+    width: 75%;
+}
+.right-request> img{
+    width: 100%;
+    height: 100%;
+}
+
+.link-request{
+    text-decoration: none;
+    color: rgb(66, 37, 62);
+}

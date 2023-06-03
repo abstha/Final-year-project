@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+}
+.Card{
+    position: absolute;
+    width: 1198px;
+    height: 650px;
+    left: 121px;
+    top: 40px;
+    /* background-color: aliceblue; */
+    border-radius: 40px;
+
+    font-family: 'Poppins', sans-serif;
+    font-weight:100;
+    font-size: 20px;
+    line-height: 60px;
+}
+
+.text1{
+    width: 349px;
+    height: 144px;
+    margin-top: 152px;
+    margin-left: 23px;
+    left: 144px;
+
+
+}
+
+.pngimage{
+    background-image: url('../../assets/pnggirl.png');
+    width: 450px;
+    height: 350px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 40px;
+    top: 233px; 
+}
+
+.Rightside{
+    position: absolute;
+    width: 650px;
+    height: 600px;
+    margin-left: 486px;
+    margin-top: 35px;
+
+    background: #FFFFFF;
+    border-radius: 50px;
+}
+
+.Header{
+    margin-left: 170px;
+    margin-top: 150px;
+    font-size: 40px;
+    top: 50px;
+}
+
+.Input{
+    margin-left: 120px;
+    width: 300px;
+    padding: 20px;
+}
+
+/* h3{
+    /* margin-left: 285px; */
+
+
+.bg1{
+    margin-left: 100px;
+}
+
+
+.Main{
+    margin: auto;
+    width: 100vw;
+    height: 100vh;
+
+    background: rgb(221,180,255);
+    background: linear-gradient(96deg, rgba(221,180,255,1) 0%, rgb(180, 95, 254) 100%);
+    background-size: cover;
+} 
+
